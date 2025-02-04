@@ -1,0 +1,71 @@
+.container {
+  text-align: center;
+  margin-top: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+.dropdown {
+  margin-bottom: 20px;
+}
+
+select,
+input[type="number"],
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  margin: 10px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+.product-form select,
+.product-form input {
+  width: 250px;
+}
+
+.category-section {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #f7f7f7;
+  border-radius: 8px;
+}
+
+.product-details {
+  margin: 10px 0;
+}
+
+.profit-margin {
+  margin: 15px 0;
+}
+
+.category-total {
+  margin-top: 20px;
+}
+
+.exits button {
+  margin: 25px;
+}
+
+.exits {
+  display: flex;
+  justify-content: center;
+}
