@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tabacrow/precache-manifest.ceb61e887c864431aa9c52574894f8e3.js"
+  "/tabacrow/precache-manifest.da68a074052fe07823a7c2ae944d6c8f.js"
 );
 
 self.addEventListener('message', (event) => {
