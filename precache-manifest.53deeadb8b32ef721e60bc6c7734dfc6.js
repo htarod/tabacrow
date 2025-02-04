@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20d437cd19b9873544d7be463c9d4f67",
+    "revision": "bcb305dd5965268e73de8f50c267700f",
     "url": "/tabacrow/index.html"
   },
   {
-    "revision": "3ebe1164f39aa00cfcf8",
+    "revision": "c986c70ca9faa6000458",
     "url": "/tabacrow/static/css/main.d6d7b8c5.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tabacrow/static/js/3.08a75d23.chunk.js"
   },
   {
-    "revision": "3ebe1164f39aa00cfcf8",
-    "url": "/tabacrow/static/js/main.d139b06e.chunk.js"
+    "revision": "c986c70ca9faa6000458",
+    "url": "/tabacrow/static/js/main.ee50306b.chunk.js"
   },
   {
     "revision": "09f5a500b04740b218f5",
