@@ -1,12 +1,10 @@
-// src/App.js
-import React from 'react';
-import './App.css';
-import StockControl from './components/StockControl';
+import React from "react";
+import StockControl from "./components/StockControl";
+import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <h1> </h1>
       <StockControl />
     </div>
   );
