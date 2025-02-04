@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tabacrow/static/css/main.d6d7b8c5.chunk.css",
+    "main.js": "/tabacrow/static/js/main.ee50306b.chunk.js",
+    "main.js.map": "/tabacrow/static/js/main.ee50306b.chunk.js.map",
+    "runtime-main.js": "/tabacrow/static/js/runtime-main.b96741b3.js",
+    "runtime-main.js.map": "/tabacrow/static/js/runtime-main.b96741b3.js.map",
+    "static/js/2.16883420.chunk.js": "/tabacrow/static/js/2.16883420.chunk.js",
+    "static/js/2.16883420.chunk.js.map": "/tabacrow/static/js/2.16883420.chunk.js.map",
+    "static/js/3.08a75d23.chunk.js": "/tabacrow/static/js/3.08a75d23.chunk.js",
+    "static/js/3.08a75d23.chunk.js.map": "/tabacrow/static/js/3.08a75d23.chunk.js.map",
+    "index.html": "/tabacrow/index.html",
+    "precache-manifest.53deeadb8b32ef721e60bc6c7734dfc6.js": "/tabacrow/precache-manifest.53deeadb8b32ef721e60bc6c7734dfc6.js",
+    "service-worker.js": "/tabacrow/service-worker.js",
+    "static/css/main.d6d7b8c5.chunk.css.map": "/tabacrow/static/css/main.d6d7b8c5.chunk.css.map",
+    "static/js/2.16883420.chunk.js.LICENSE.txt": "/tabacrow/static/js/2.16883420.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b96741b3.js",
+    "static/js/2.16883420.chunk.js",
+    "static/css/main.d6d7b8c5.chunk.css",
+    "static/js/main.ee50306b.chunk.js"
+  ]
+}
